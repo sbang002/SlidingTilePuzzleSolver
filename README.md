@@ -1,4 +1,5 @@
 #SlidingPuzzleSolver
+
 Solves a sliding puzzle problems 
 
 What is a sliding puzzle?
