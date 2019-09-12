@@ -1,8 +1,8 @@
-#SlidingPuzzleSolver
+#SlidingTilePuzzleSolver
 
-Solves a sliding puzzle problems 
+This program is used to solve sliding tile puzzle problems 
 
-What is a sliding puzzle?
+What is a sliding tile puzzle?
   A combination puzzle that challenges a player to slide pieces along established routes to meet a certain end configuration.
   To learn more: https://en.wikipedia.org/wiki/Sliding_puzzle
 
